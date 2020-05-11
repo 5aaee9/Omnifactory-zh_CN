@@ -4,3 +4,21 @@ omnifactory.quest.line.1.title=早期游戏
 omnifactory.quest.line.0.desc=格雷低压阶段: 开始建造一所工厂!%n%n通过 §bDeep Mob Learning§r 来获取资源.%n%n建造一个 §3电力高炉§r 来熔炼高级金属和合金.%n%n早期的 §bEnderIO§r 以及 §bApplied Energistics 2§r 的储存.
 # line 0
 omnifactory.quest.line.0.title=一切的起点
+# db 0
+omnifactory.quest.db.0.title=给石英水晶充能
+# line 7
+omnifactory.quest.line.7.title=进入宇宙
+# db 6
+omnifactory.quest.db.6.title=更多的矿物
+omnifactory.quest.db.5.desc=§a采矿锤§r 提供了一种相对便宜并且快速的方法来挖掘一片区域. 它可以很快的清理 3x3 范围内的矿物和方块, 所以他一定值得将你第一块锭做成采矿锤§..%n%n§6石头§f 是最便宜的一种采矿锤, 但是他的耐久下降的非常块. 直到你已经有了许多的 §6铁§f, 考虑到你会在第一次探险当中使用它.%n%n最好的采矿锤是 §6钻石§f 和 §6铂§f 制成的. 其他的探矿锤也不错, 但是耐久下降的也非常快.%n%n§c§n不要用采矿锤破坏格雷科技的机器!§r%n%n
+# db 5
+omnifactory.quest.db.5.title=采矿锤
+omnifactory.quest.db.4.desc=§c§r在 §5Omnifactory§f 中的矿物以大型集合组成, 或者说 '§e矿脉§f'. 这些矿脉散布在世界各地并且非常普遍. 你背包中的 §a扫描器§f 可以探测距离你 16 个 方块之内的矿物, 所以边挖矿边扫描可以向你显示附近的矿脉. 现在就来扫描吧, 按住 §6右键§f 直到走完进度条.%n%n虽然扫描仪需要能量来工作, 但你不太可能耗尽它的电池. 话虽如此，但以后的仍无数会指引你做一个 §a通量电容器§f 来给你背包中的物品充电.%n%n下一步, 你需要找到 §6铁§f 的来源. 你有几个选择. §6磁铁§f 矿脉生成高度比较高, 并且含有很多的铁, 并且含有一些 §6钒铁§f 和 §6金§f. 另外一个铁的来源是 §6褐铁§f 矿棉, 其中含有许多种不同的铁矿. 最后一种就是 §6黄铁§f 矿脉, 可以和 §6铜§f 一起在许多类型的矿脉中找到.%n%n§6锻铁锭§f 可与通过 §e再熔炼一次铁§f 来获取. 它比铁有着更高的耐久度, 所以非常适合做成工具, 但是 §c不要把你的全部铁都转换为锻铁§f. 这两种材料是不可以互换的, 并且你需要按照合成来获取铁或者锻铁.
+omnifactory.quest.line.6.desc=欢迎来到 §5Omnifactory§r, 我将会指导你进行这个游戏.
+# line 4
+omnifactory.quest.line.4.title=游戏后期
+omnifactory.quest.line.3.desc=知道自己现在所处的位置是非常重要的.%n%n这个选项卡描述了 §5Omnifactory§r 中各种事情的进度. %n%n通常使用目前可以制作的电路作为衡量目前进度的标准.
+# line 3
+omnifactory.quest.line.3.title=进度
+# line 2
+omnifactory.quest.line.2.title=游戏中期
